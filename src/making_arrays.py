@@ -39,3 +39,4 @@ print ((d3).dtype) # dtype is converted to complex to allow for operation
 print (d3.real) # real attribute of d3
 print (d3.imag) # imaginary attribute of d3
 
+print("Hello, I am using neovim!")
